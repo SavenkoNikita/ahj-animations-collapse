@@ -1,3 +1,3 @@
 [GitHub Pages](https://github.com/SavenkoNikita/ahj-animations-collapse/)
 
-[![Build and Deploy](https://github.com/SavenkoNikita/ahj-animations-collapse/actions/workflows/deploy.yml/badge.svg)](https://github.com/SavenkoNikita/ahj-animations-collapse/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/SavenkoNikita/ahj-animations-collapse/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SavenkoNikita/ahj-animations-collapse/actions/workflows/pages/pages-build-deployment)
